@@ -6,11 +6,11 @@
 
 🌟 My expertise includes:
 - Speech processing
-- Natural Language Processing
-- Computer Vision
+- Natural language processing
+- Computer vision
 - Machine learning and deep learning
-- Data Science and analitics
-- Data Engineering and visualization
+- Data science and analytics
+- Data engineering and visualization
 - Programming in languages like SQL and Python with AI libraries like `PyTorch`, `TensorFlow` or `MLflow` and data manipulating libraries like `Pandas`, `Numpy` or `NLTK`
 
 🌍 I have a big interest in sport like Football (it's football not soccer !)
