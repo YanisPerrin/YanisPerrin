@@ -16,5 +16,5 @@
 🌍 I have a big interest in sport like Football (it's football not soccer !)
 
 📫 Let’s connect:  
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/yanis-perrin-4ab95a201/)
-- **GitHub**: [Github](https://github.com/YanisPerrin)
+- [LinkedIn](https://www.linkedin.com/in/yanis-perrin-4ab95a201/)
+- [Github](https://github.com/YanisPerrin)
