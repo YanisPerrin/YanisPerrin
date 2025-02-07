@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yanis !
 
-🎓 I hold a degree in Data Science and Artificial Intelligence Engineering from ESIEE Paris and a Master’s in Artificial Intelligence and Data Science from the University of Sherbrooke.
+🎓 I hold a degree in Engineering from ESIEE Paris and a Master’s in Artificial Intelligence and Data Science from the University of Sherbrooke.
 
 💻 I'm currently at the Computer Research Institute of Montréal, specializing in **speech processing** technologies. I work on leveraging advanced machine learning models to enhance language technologies !
 
